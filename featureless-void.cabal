@@ -18,6 +18,7 @@ library
                      Handler.Common
                      Handler.Feed
                      Handler.Home
+                     Handler.Micropub.Auth
                      Handler.NewScream
                      Handler.ScreamDetail
                      Helper

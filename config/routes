@@ -8,3 +8,5 @@
 !/#ScreamId ScreamDetailR GET
 /screams/new NewScreamR GET POST
 /feed.xml FeedR GET
+
+/api/micropub/auth MicropubAuthR GET
